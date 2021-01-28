@@ -18,7 +18,10 @@ class ViewController: UIViewController {
         let aman = 23
     
     }
-
+    func savemap(){
+        let b = 0
+        print(b)
+    }
 
 }
 
