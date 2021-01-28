@@ -21,6 +21,8 @@ class ViewController: UIViewController {
     func savemap(){
         let b = 0
         print(b)
+        
+        print(12)
     }
 
 }
