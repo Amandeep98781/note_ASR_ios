@@ -27,7 +27,7 @@ class ViewController: UIViewController {
         print(13)
         
     }
-     
+     //new  fn here
     func project()  {
         for i in array1 {
             
